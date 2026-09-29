@@ -1,0 +1,9 @@
+{
+  "name": "Travel Chapter",
+  "description": "AI-powered travel discovery and personalized trip-planning platform. Every destination can become a beautiful chapter of your life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
